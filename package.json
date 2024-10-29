@@ -1,9 +1,9 @@
 {
-  "name": "expense-tracker-app",
+  "name": "week8",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "a" 
+    "test": "jest --passwith" 
   },
   "keywords": [],
   "author": "",
